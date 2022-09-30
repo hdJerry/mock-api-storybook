@@ -30,5 +30,11 @@ yarn test:e2e
 yarn lint
 ```
 
+### Tools
+- MSW
+- GraphQL
+- Apollo
+- Fetch API
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
